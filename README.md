@@ -105,8 +105,8 @@ A web-based AI application that recognizes handwritten digits (0–9) and alphab
 
 4. A browser window will open:
 
--Draw a digit or letter → Click "Recognize & Speak"
--Or type text → Click "Play Text"
+- Draw a digit or letter → Click "Recognize & Speak"
+- Or type text → Click "Play Text"
 
 
 
