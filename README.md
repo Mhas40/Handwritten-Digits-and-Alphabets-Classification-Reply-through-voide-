@@ -110,7 +110,7 @@ A web-based AI application that recognizes handwritten digits (0–9) and alphab
 
 
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 - Add multilingual voice support
 - Improve model accuracy with CNN
