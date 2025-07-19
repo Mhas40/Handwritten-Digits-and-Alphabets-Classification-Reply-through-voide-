@@ -92,3 +92,28 @@ A web-based AI application that recognizes handwritten digits (0–9) and alphab
    ```bash
    git clone https://github.com/your-username/handwriting-voice-ai.git
    cd handwriting-voice-ai
+
+   Install dependencies:
+
+2. Install Dependencies:
+   ```bash 
+    pip install -r requirements.txt
+
+3. Run the application:
+    ```bash
+    python main.py
+
+4. A browser window will open:
+
+-Draw a digit or letter → Click "Recognize & Speak"
+-Or type text → Click "Play Text"
+
+
+
+##📌 Future Improvements
+
+- Add multilingual voice support
+- Improve model accuracy with CNN
+- Enable handwriting on mobile devices
+
+
